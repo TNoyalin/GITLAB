@@ -10,7 +10,7 @@ body {
     font-size: 80%;
   }
 .card {
-    background:blue;
+    background:lightblue;
     color:white;
     padding: 2em;
     border-radius: 30px;
@@ -41,7 +41,7 @@ body {
     background: #7c7c7c2b;
     padding: 1em;
     border-radius: 8px;
-    color: white;
+    color: gray;
     width: 75%;
     height: 20px;
     outline: none;
@@ -75,3 +75,4 @@ h1.temp {
     top:0;
     left:20px;
   }
+
